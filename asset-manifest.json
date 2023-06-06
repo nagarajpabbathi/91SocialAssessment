@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/91SocialAssessment/static/css/main.f09d6c50.css",
+    "main.js": "/91SocialAssessment/static/js/main.f54ea9a2.js",
+    "static/js/787.08ee25b4.chunk.js": "/91SocialAssessment/static/js/787.08ee25b4.chunk.js",
+    "index.html": "/91SocialAssessment/index.html",
+    "main.f09d6c50.css.map": "/91SocialAssessment/static/css/main.f09d6c50.css.map",
+    "main.f54ea9a2.js.map": "/91SocialAssessment/static/js/main.f54ea9a2.js.map",
+    "787.08ee25b4.chunk.js.map": "/91SocialAssessment/static/js/787.08ee25b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f09d6c50.css",
+    "static/js/main.f54ea9a2.js"
+  ]
+}
